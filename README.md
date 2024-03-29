@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙏 Greetings !!<br>🔭 Master's candidate in Computer Applications seeking collaboration on Open Source projects.<br>👯 Seeking assistance with finding project collaborators.<br>🤝 Seeking collaboration with individuals proficient in project collaboration.<br>🌱 Currently mastering MERN STACK.<br>💬 Web Technology expert, ask away!<br>⚡ Fun fact: Not known for my seriousness.
+🙏 Greetings !!<br>🔭 Master's candidate in Computer Applications seeking collaboration on Open Source projects.<br>👯 Seeking assistance with finding project collaborators.<br>🤝 Seeking collaboration with individuals proficient in project collaboration.<br>🌱 Currently mastering MERN Stack.<br>💬 Web Technology expert, ask away!<br>⚡ Fun fact: Not known for my seriousness.
 
 
 ## 🌐 Socials:
